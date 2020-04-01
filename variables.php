@@ -1,6 +1,6 @@
 <?php
 
-$company_name = "Raging Roosters Hockey Club";
+$company_name = "The Raging Roosters Hockey Club";
 
 
 ?>
